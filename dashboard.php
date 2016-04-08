@@ -1,0 +1,1 @@
+echo "tablero inicial";
