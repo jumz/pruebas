@@ -3,4 +3,4 @@ echo "login";
 //comentario
 echo "logout";
 
-//faltan derechos
+//faltan derechos y ubicación
